@@ -1,7 +1,7 @@
 {
     "version":"0.8.3",
     "description":"A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!",
-    "license":"LGPL-3.0-License",
+    "license":"MIT",
     "architecture": {
         "64bit": {
             "url":"https://github.com/Orama-Interactive/Pixelorama/releases/download/v0.8.3/Pixelorama.Windows-64bit.zip",

@@ -1,0 +1,19 @@
+{
+    "version":"1.5.1",
+    "description":"The application will monitor and clear the memory standby list according to the configured options parameter you set.",
+    "license":"Unknown",
+    "architecture": {
+        "64bit": {
+            "url":"https://www.wagnardsoft.com/ISLC/ISLC%20v1.0.2.5.exe#/islc.7z",
+            "hash":"5D1F016960123EADCB0297418B227D434E159437D085AD9C5C15F2B196A30246",
+            "extract_dir": "ISLC v1.0.2.5"
+        }
+    },
+    "bin": ["Intelligent standby list cleaner ISLC.exe", "islc"],
+    "shortcuts": [
+        [
+            "Intelligent standby list cleaner ISLC.exe",
+            "Intelligent standby list cleaner ISLC"
+        ]
+    ]
+}

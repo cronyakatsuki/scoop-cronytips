@@ -10,6 +10,9 @@
         }
     },
     "bin": [ ["Intelligent standby list cleaner ISLC.exe", "islc" ] ],
+    "persist": [
+        "Intelligent standby list cleaner ISLC.exe.Config"
+    ],
     "shortcuts": [
         [
             "Intelligent standby list cleaner ISLC.exe",

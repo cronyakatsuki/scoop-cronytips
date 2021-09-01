@@ -1,5 +1,5 @@
 {
-    "version":"1.5.1",
+    "version":"1.0.2.5",
     "description":"The application will monitor and clear the memory standby list according to the configured options parameter you set.",
     "license":"Unknown",
     "architecture": {

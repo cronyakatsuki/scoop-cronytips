@@ -13,9 +13,6 @@
         }
     },
     "bin":"Pixelorama.exe",
-    "persist": [
-        "pixelorama_data/Palettes"
-    ],
     "shortcuts": [
         [
             "Pixelorama.exe",

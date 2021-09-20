@@ -5,12 +5,12 @@
     "architecture": {
         "64bit": {
             "url":"https://github.com/Orama-Interactive/Pixelorama/releases/download/v0.9/Pixelorama.Windows-64bit.zip",
-            "hash":"EA4A831EEC3487848B774F91FC3B8B068E7EB7909C399C216CD284B0BF18AA94",
+            "hash":"78aef3ea370e029dba06dc3a6e47b74b819967039ec8f2c0eeff125641a389a9",
             "extract_dir": "windows-64bit"
         },
         "32bit": {
             "url":"https://github.com/Orama-Interactive/Pixelorama/releases/download/v0.9/Pixelorama.Windows-32bit.zip",
-            "hash":"1D12D1754508A5DB67F9257E10D671936F7CD43D7F8B5069F89BCF5B11E329F4",
+            "hash":"87678ED1EC8D12E69B96DEB32832B19B1F4B18683BA6E519B41E24562BEFD802",
             "extract_dir": "windows-32bit"
         }
     },
